@@ -62,13 +62,13 @@ Spieltag 4
 
 Spieltag 5
 [Fr 23.10.]
-  20.30  VfB Stuttgart            -  1. FC Köln
+  20.30  VfB Stuttgart            1:1 (1:1)  1. FC Köln
 [Sa 24.10.]
-  15.30  Bayern München           -  Eintracht Frankfurt
-         RB Leipzig               -  Hertha BSC
-         1. FC Union Berlin       -  SC Freiburg
-         1. FSV Mainz 05          -  Bor. Mönchengladbach
-  18.30  Borussia Dortmund        -  FC Schalke 04
+  15.30  Bayern München           5:0 (2:0)  Eintracht Frankfurt
+         RB Leipzig               2:1 (1:1)  Hertha BSC
+         1. FC Union Berlin       1:1 (1:1)  SC Freiburg
+         1. FSV Mainz 05          2:3 (2:1)  Bor. Mönchengladbach
+  18.30  Borussia Dortmund        3:0 (0:0)  FC Schalke 04
 [So 25.10.]
   15.30  VfL Wolfsburg            -  Arminia Bielefeld
   18.00  Werder Bremen            -  TSG 1899 Hoffenheim
