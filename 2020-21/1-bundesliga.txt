@@ -109,13 +109,13 @@ Spieltag 7
 
 Spieltag 8
 [Sa 21.11.]
-  15.30  Bayern München           -  Werder Bremen
-         Bor. Mönchengladbach     -  FC Augsburg
-         TSG 1899 Hoffenheim      -  VfB Stuttgart
-         FC Schalke 04            -  VfL Wolfsburg
-         Arminia Bielefeld        -  Bayer 04 Leverkusen
-  18.30  Eintracht Frankfurt      -  RB Leipzig
-  20.30  Hertha BSC               -  Borussia Dortmund
+  15.30  Bayern München           1:1 (0:1)  Werder Bremen
+         Bor. Mönchengladbach     1:1 (1:0)  FC Augsburg
+         TSG 1899 Hoffenheim      3:3 (1:2)  VfB Stuttgart
+         FC Schalke 04            0:2 (0:2)  VfL Wolfsburg
+         Arminia Bielefeld        1:2 (0:1)  Bayer 04 Leverkusen
+  18.30  Eintracht Frankfurt      1:1 (1:0)  RB Leipzig
+  20.30  Hertha BSC               2:5 (1:0)  Borussia Dortmund
 [So 22.11.]
   15.30  SC Freiburg              -  1. FSV Mainz 05
   18.00  1. FC Köln               -  1. FC Union Berlin
