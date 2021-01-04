@@ -200,8 +200,8 @@ Spieltag 14
   18.30  Hertha BSC               3:0 (1:0)  FC Schalke 04
   20.30  VfB Stuttgart            0:1 (0:0)  RB Leipzig
 [So 3.1.]
-  15.30  Borussia Dortmund        -  VfL Wolfsburg
-  18.00  Bayern München           -  1. FSV Mainz 05
+  15.30  Borussia Dortmund        2:0 (0:0)  VfL Wolfsburg
+  18.00  Bayern München           5:2 (0:2)  1. FSV Mainz 05
 
 Spieltag 15
 [Fr 8.1.]
