@@ -207,12 +207,12 @@ Spieltag 15
 [Fr 8.1.]
   20.30  Bor. Mönchengladbach     3:2 (2:2)  Bayern München
 [Sa 9.1.]
-  15.30  Bayer 04 Leverkusen      -  Werder Bremen
-         SC Freiburg              -  1. FC Köln
-         1. FC Union Berlin       -  VfL Wolfsburg
-         FC Schalke 04            -  TSG 1899 Hoffenheim
-         1. FSV Mainz 05          -  Eintracht Frankfurt
-  18.30  RB Leipzig               -  Borussia Dortmund
+  15.30  Bayer 04 Leverkusen      1:1 (0:0)  Werder Bremen
+         SC Freiburg              5:0 (2:0)  1. FC Köln
+         1. FC Union Berlin       2:2 (1:1)  VfL Wolfsburg
+         FC Schalke 04            4:0 (1:0)  TSG 1899 Hoffenheim
+         1. FSV Mainz 05          0:2 (0:1)  Eintracht Frankfurt
+  18.30  RB Leipzig               1:3 (0:0)  Borussia Dortmund
 [So 10.1.]
   15.30  FC Augsburg              -  VfB Stuttgart
   18.00  Arminia Bielefeld        -  Hertha BSC
