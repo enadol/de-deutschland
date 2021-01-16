@@ -222,11 +222,11 @@ Spieltag 16
   1. FC Union Berlin       1:0 (0:0)  Bayer 04 Leverkusen
 
 [Sa 16.1.]
-  Borussia Dortmund        -  1. FSV Mainz 05
-  TSG 1899 Hoffenheim      -  Arminia Bielefeld
-  VfL Wolfsburg            -  RB Leipzig
-  1. FC Köln               -  Hertha BSC
-  Werder Bremen            -  FC Augsburg
+  Borussia Dortmund        1:1 (0:0)  1. FSV Mainz 05
+  TSG 1899 Hoffenheim      0:0 (0:0)  Arminia Bielefeld
+  VfL Wolfsburg            2:2 (2:1)  RB Leipzig
+  1. FC Köln               0:0 (0:0)  Hertha BSC
+  Werder Bremen            2:0 (0:0)  FC Augsburg
   VfB Stuttgart            -  Bor. Mönchengladbach
 [So 17.1.]
   Bayern München           -  SC Freiburg
