@@ -218,16 +218,19 @@ Spieltag 15
   18.00  Arminia Bielefeld        1:0 (0:0)  Hertha BSC
 
 Spieltag 16
+[Fr 15.1.]
+  1. FC Union Berlin       1:0 (0:0)  Bayer 04 Leverkusen
+
 [Sa 16.1.]
-  Bayern München           -  SC Freiburg
   Borussia Dortmund        -  1. FSV Mainz 05
   TSG 1899 Hoffenheim      -  Arminia Bielefeld
   VfL Wolfsburg            -  RB Leipzig
-  Eintracht Frankfurt      -  FC Schalke 04
-  1. FC Union Berlin       -  Bayer 04 Leverkusen
   1. FC Köln               -  Hertha BSC
   Werder Bremen            -  FC Augsburg
   VfB Stuttgart            -  Bor. Mönchengladbach
+[So 17.1.]
+  Bayern München           -  SC Freiburg
+  Eintracht Frankfurt      -  FC Schalke 04
 
 
 Spieltag 17
