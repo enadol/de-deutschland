@@ -235,13 +235,14 @@ Spieltag 16
 
 Spieltag 17
 [Di 19.1.]
+  Bor. Mönchengladbach     1:0 (0:0)  Werder Bremen
+  Bayer 04 Leverkusen      2:1 (1:0)  Borussia Dortmund
+  Hertha BSC               0:3 (0:1)  TSG 1899 Hoffenheim
+  1. FSV Mainz 05          0:2 (0:0)  VfL Wolfsburg
+[Mi 20.1.]
   RB Leipzig               -  1. FC Union Berlin
-  Bor. Mönchengladbach     -  Werder Bremen
-  Bayer 04 Leverkusen      -  Borussia Dortmund
   SC Freiburg              -  Eintracht Frankfurt
-  Hertha BSC               -  TSG 1899 Hoffenheim
   FC Schalke 04            -  1. FC Köln
-  1. FSV Mainz 05          -  VfL Wolfsburg
   FC Augsburg              -  Bayern München
   Arminia Bielefeld        -  VfB Stuttgart
 
