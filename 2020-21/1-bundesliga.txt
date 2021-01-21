@@ -240,11 +240,11 @@ Spieltag 17
   Hertha BSC               0:3 (0:1)  TSG 1899 Hoffenheim
   1. FSV Mainz 05          0:2 (0:0)  VfL Wolfsburg
 [Mi 20.1.]
-  RB Leipzig               -  1. FC Union Berlin
-  SC Freiburg              -  Eintracht Frankfurt
-  FC Schalke 04            -  1. FC Köln
-  FC Augsburg              -  Bayern München
-  Arminia Bielefeld        -  VfB Stuttgart
+  RB Leipzig               1:0 (0:0)  1. FC Union Berlin
+  SC Freiburg              2:2 (1:1)  Eintracht Frankfurt
+  FC Schalke 04            1:2 (0:1)  1. FC Köln
+  FC Augsburg              0:1 (0:1)  Bayern München
+  Arminia Bielefeld        3:0 (1:0)  VfB Stuttgart
 
 
 Spieltag 18
