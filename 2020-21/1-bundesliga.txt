@@ -261,31 +261,33 @@ Spieltag 18
   FC Schalke 04            0:4 (0:2)  Bayern München
   TSG 1899 Hoffenheim      3:0 (2:0)  1. FC Köln
 
-
 Spieltag 19
+[Fr 29.1.]
+  VfB Stuttgart            2:0 (0:0)  1. FSV Mainz 05
 [Sa 30.1.]
-  1. FC Union Berlin       -  Bor. Mönchengladbach
-  RB Leipzig               -  Bayer 04 Leverkusen
-  Bayern München           -  TSG 1899 Hoffenheim
-  VfL Wolfsburg            -  SC Freiburg
-  Eintracht Frankfurt      -  Hertha BSC
-  Werder Bremen            -  FC Schalke 04
-  VfB Stuttgart            -  1. FSV Mainz 05
-  Borussia Dortmund        -  FC Augsburg
+  Bayern München           4:1 (2:1)  TSG 1899 Hoffenheim
+  Borussia Dortmund        3:1 (1:1)  FC Augsburg
+  Eintracht Frankfurt      3:1 (0:0)  Hertha BSC
+  1. FC Union Berlin       1:1 (1:0)  Bor. Mönchengladbach
+  Werder Bremen            1:1 (0:1)  FC Schalke 04
+  RB Leipzig               1:0 (0:0)  Bayer 04 Leverkusen
+[So 31.1.]
   1. FC Köln               -  Arminia Bielefeld
-
+  VfL Wolfsburg            -  SC Freiburg
 
 Spieltag 20
-[Sa 6.2.]
+[Fr 5.2.]
   Hertha BSC               -  Bayern München
+[Sa 6.2.]
+  Bayer 04 Leverkusen      -  VfB Stuttgart
   SC Freiburg              -  Borussia Dortmund
   FC Schalke 04            -  RB Leipzig
-  FC Augsburg              -  VfL Wolfsburg
-  TSG 1899 Hoffenheim      -  Eintracht Frankfurt
   1. FSV Mainz 05          -  1. FC Union Berlin
+  FC Augsburg              -  VfL Wolfsburg
   Bor. Mönchengladbach     -  1. FC Köln
+[So 7.2.]
+  TSG 1899 Hoffenheim      -  Eintracht Frankfurt
   Arminia Bielefeld        -  Werder Bremen
-  Bayer 04 Leverkusen      -  VfB Stuttgart
 
 
 Spieltag 21
