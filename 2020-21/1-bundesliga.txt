@@ -277,14 +277,14 @@ Spieltag 19
 
 Spieltag 20
 [Fr 5.2.]
-  Hertha BSC               -  Bayern München
+  Hertha BSC               0:1 (0:1)  Bayern München
 [Sa 6.2.]
-  Bayer 04 Leverkusen      -  VfB Stuttgart
-  SC Freiburg              -  Borussia Dortmund
-  FC Schalke 04            -  RB Leipzig
-  1. FSV Mainz 05          -  1. FC Union Berlin
-  FC Augsburg              -  VfL Wolfsburg
-  Bor. Mönchengladbach     -  1. FC Köln
+  Bayer 04 Leverkusen      5:2 (2:0)  VfB Stuttgart
+  SC Freiburg              2:1 (0:0)  Borussia Dortmund
+  FC Schalke 04            0:3 (0:1)  RB Leipzig
+  1. FSV Mainz 05          1:0 (1:0)  1. FC Union Berlin
+  FC Augsburg              0:2 (0:1)  VfL Wolfsburg
+  Bor. Mönchengladbach     1:2 (1:1)  1. FC Köln
 [So 7.2.]
   TSG 1899 Hoffenheim      -  Eintracht Frankfurt
   Arminia Bielefeld        -  Werder Bremen
