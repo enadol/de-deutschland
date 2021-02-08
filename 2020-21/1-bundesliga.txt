@@ -286,20 +286,22 @@ Spieltag 20
   FC Augsburg              0:2 (0:1)  VfL Wolfsburg
   Bor. Mönchengladbach     1:2 (1:1)  1. FC Köln
 [So 7.2.]
-  TSG 1899 Hoffenheim      -  Eintracht Frankfurt
+  TSG 1899 Hoffenheim      1:3 (0:1)  Eintracht Frankfurt
   Arminia Bielefeld        -  Werder Bremen
 
-
 Spieltag 21
+[Fr 12.2.]
+  RB Leipzig               -  FC Augsburg
 [Sa 13.2.]
-  VfL Wolfsburg            -  Bor. Mönchengladbach
   Borussia Dortmund        -  TSG 1899 Hoffenheim
+  Bayer 04 Leverkusen      -  1. FSV Mainz 05
   Werder Bremen            -  SC Freiburg
   VfB Stuttgart            -  Hertha BSC
   1. FC Union Berlin       -  FC Schalke 04
-  Bayer 04 Leverkusen      -  1. FSV Mainz 05
+[So 14.2.]
   Eintracht Frankfurt      -  1. FC Köln
-  RB Leipzig               -  FC Augsburg
+  VfL Wolfsburg            -  Bor. Mönchengladbach
+[Mo 15.2.]
   Bayern München           -  Arminia Bielefeld
 
 
