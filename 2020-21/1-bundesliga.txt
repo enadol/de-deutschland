@@ -321,17 +321,18 @@ Spieltag 22
 
 
 Spieltag 23
-[Sa 27.2.]
-  RB Leipzig               -  Bor. Mönchengladbach
-  1. FC Union Berlin       -  TSG 1899 Hoffenheim
-  Bayer 04 Leverkusen      -  SC Freiburg
+[Fr 26.2.]
   Werder Bremen            -  Eintracht Frankfurt
+[Sa 27.2.]
+  Bayern München           -  1. FC Köln
+  Borussia Dortmund        -  Arminia Bielefeld
   VfL Wolfsburg            -  Hertha BSC
   VfB Stuttgart            -  FC Schalke 04
-  Bayern München           -  1. FC Köln
+  RB Leipzig               -  Bor. Mönchengladbach
+[So 28.2.]
+  1. FC Union Berlin       -  TSG 1899 Hoffenheim
   1. FSV Mainz 05          -  FC Augsburg
-  Borussia Dortmund        -  Arminia Bielefeld
-
+  Bayer 04 Leverkusen      -  SC Freiburg
 
 Spieltag 24
 [Sa 6.3.]
