@@ -299,24 +299,24 @@ Spieltag 21
   VfB Stuttgart            1:1 (1:0)  Hertha BSC
   1. FC Union Berlin       0:0 (0:0)  FC Schalke 04
 [So 14.2.]
-  Eintracht Frankfurt      -  1. FC Köln
-  VfL Wolfsburg            -  Bor. Mönchengladbach
+  Eintracht Frankfurt      2:0 (0:0)  1. FC Köln
+  VfL Wolfsburg            0:0 (0:0)  Bor. Mönchengladbach
 [Mo 15.2.]
-  Bayern München           -  Arminia Bielefeld
+  Bayern München           3:3 (0:2)  Arminia Bielefeld
 
 
 Spieltag 22
 [Fr 19.2.]
-  Arminia Bielefeld        -  VfL Wolfsburg
+  Arminia Bielefeld        0:3 (0:1)  VfL Wolfsburg
 [Sa 20.2.]
-  Bor. Mönchengladbach     -  1. FSV Mainz 05
-  SC Freiburg              -  1. FC Union Berlin
-  Eintracht Frankfurt      -  Bayern München
-  1. FC Köln               -  VfB Stuttgart
-  FC Schalke 04            -  Borussia Dortmund
+  Bor. Mönchengladbach     1:2 (1:1)  1. FSV Mainz 05
+  SC Freiburg              0:1 (0:0)  1. FC Union Berlin
+  Eintracht Frankfurt      2:1 (2:0)  Bayern München
+  1. FC Köln               0:1 (0:0)  VfB Stuttgart
+  FC Schalke 04            0:4 (0:2)  Borussia Dortmund
   [S0 21.2.]
-  FC Augsburg              -  Bayer 04 Leverkusen
-  Hertha BSC               -  RB Leipzig
+  FC Augsburg              1:1 (1:0)  Bayer 04 Leverkusen
+  Hertha BSC               0:3 (0:1)  RB Leipzig
   TSG 1899 Hoffenheim      -  Werder Bremen
 
 
