@@ -328,13 +328,13 @@ Spieltag 23
 
 Spieltag 24
 [Fr 5.3.]
-  FC Schalke 04            -  1. FSV Mainz 05
+  FC Schalke 04           0:0 (0:0)  1. FSV Mainz 05
 [Sa 6.3.]
-  Bor. Mönchengladbach     -  Bayer 04 Leverkusen
-  TSG 1899 Hoffenheim      -  VfL Wolfsburg
-  SC Freiburg              -  RB Leipzig
-  Eintracht Frankfurt      -  VfB Stuttgart
-  Hertha BSC               -  FC Augsburg
+  Bor. Mönchengladbach     0:1 (0:0)  Bayer 04 Leverkusen
+  TSG 1899 Hoffenheim      2:1 (2:1)  VfL Wolfsburg
+  SC Freiburg              0:3 (0:1)  RB Leipzig
+  Eintracht Frankfurt      1:1 (0:0)  VfB Stuttgart
+  Hertha BSC               2:1 (0:1)  FC Augsburg
   Bayern München           -  Borussia Dortmund
 [So 7.3.]
   1. FC Köln               -  Werder Bremen
