@@ -356,30 +356,31 @@ Spieltag 25
   RB Leipzig               1:1  Eintracht Frankfurt
 
 Spieltag 26
-[Sa 20.3.]
-  1. FC Köln               -  Borussia Dortmund
+[Fr 19.3.]
   Arminia Bielefeld        -  RB Leipzig
-  FC Schalke 04            -  Bor. Mönchengladbach
-  Hertha BSC               -  Bayer 04 Leverkusen
-  Werder Bremen            -  VfL Wolfsburg
+[Sa 20.3.]
+  Bayern München           -  VfB Stuttgart
   Eintracht Frankfurt      -  1. FC Union Berlin
+  1. FC Köln               -  Borussia Dortmund
+  Werder Bremen            -  VfL Wolfsburg
+  FC Schalke 04            -  Bor. Mönchengladbach
+[So 21.3.]
+  Hertha BSC               -  Bayer 04 Leverkusen
   TSG 1899 Hoffenheim      -  1. FSV Mainz 05
   SC Freiburg              -  FC Augsburg
-  Bayern München           -  VfB Stuttgart
-
 
 Spieltag 27
-[So 4.4.]
-  RB Leipzig               -  Bayern München
-  FC Augsburg              -  TSG 1899 Hoffenheim
-  Bor. Mönchengladbach     -  SC Freiburg
+[Sa 3.4.]
   Borussia Dortmund        -  Eintracht Frankfurt
-  1. FC Union Berlin       -  Hertha BSC
   Bayer 04 Leverkusen      -  FC Schalke 04
   VfL Wolfsburg            -  1. FC Köln
-  VfB Stuttgart            -  Werder Bremen
   1. FSV Mainz 05          -  Arminia Bielefeld
-
+  FC Augsburg              -  TSG 1899 Hoffenheim
+  RB Leipzig               -  Bayern München
+  Bor. Mönchengladbach     -  SC Freiburg
+[So 4.4.]
+  1. FC Union Berlin       -  Hertha BSC
+  VfB Stuttgart            -  Werder Bremen
 
 Spieltag 28
 [Sa 10.4.]
