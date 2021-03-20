@@ -357,7 +357,7 @@ Spieltag 25
 
 Spieltag 26
 [Fr 19.3.]
-  Arminia Bielefeld        -  RB Leipzig
+  Arminia Bielefeld        0:1  RB Leipzig
 [Sa 20.3.]
   Bayern München           -  VfB Stuttgart
   Eintracht Frankfurt      -  1. FC Union Berlin
@@ -383,17 +383,19 @@ Spieltag 27
   VfB Stuttgart            -  Werder Bremen
 
 Spieltag 28
-[Sa 10.4.]
-  VfB Stuttgart            -  Borussia Dortmund
-  Werder Bremen            -  RB Leipzig
-  Hertha BSC               -  Bor. Mönchengladbach
-  TSG 1899 Hoffenheim      -  Bayer 04 Leverkusen
-  Eintracht Frankfurt      -  VfL Wolfsburg
+[Fr 9.4.]
   Arminia Bielefeld        -  SC Freiburg
+[Sa 10.4.]
   Bayern München           -  1. FC Union Berlin
-  1. FC Köln               -  1. FSV Mainz 05
+  Eintracht Frankfurt      -  VfL Wolfsburg
+  Hertha BSC               -  Bor. Mönchengladbach
+  Werder Bremen            -  RB Leipzig
+  VfB Stuttgart            -  Borussia Dortmund
+[So 11.4.]
   FC Schalke 04            -  FC Augsburg
-
+  1. FC Köln               -  1. FSV Mainz 05
+[Mo 12.4.]
+  TSG 1899 Hoffenheim      -  Bayer 04 Leverkusen
 
 Spieltag 29
 [Sa 17.4.]
