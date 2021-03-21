@@ -343,7 +343,6 @@ Spieltag 24
 Spieltag 25
 [Fr 12.3.]
   FC Augsburg              3:1  Bor. Mönchengladbach
-
 [Sa 13.3.]
   VfL Wolfsburg            5:0  FC Schalke 04
   1. FC Union Berlin       2:1  1. FC Köln
@@ -365,9 +364,9 @@ Spieltag 26
   Werder Bremen            1:2  VfL Wolfsburg
   FC Schalke 04            0:3  Bor. Mönchengladbach
 [So 21.3.]
-  Hertha BSC               -  Bayer 04 Leverkusen
+  Hertha BSC               3:0  Bayer 04 Leverkusen
   TSG 1899 Hoffenheim      1:2  1. FSV Mainz 05
-  SC Freiburg              -  FC Augsburg
+  SC Freiburg              2:0  FC Augsburg
 
 Spieltag 27
 [Sa 3.4.]
