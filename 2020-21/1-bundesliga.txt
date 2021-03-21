@@ -359,14 +359,14 @@ Spieltag 26
 [Fr 19.3.]
   Arminia Bielefeld        0:1  RB Leipzig
 [Sa 20.3.]
-  Bayern München           -  VfB Stuttgart
-  Eintracht Frankfurt      -  1. FC Union Berlin
-  1. FC Köln               -  Borussia Dortmund
-  Werder Bremen            -  VfL Wolfsburg
-  FC Schalke 04            -  Bor. Mönchengladbach
+  Bayern München           4:0  VfB Stuttgart
+  Eintracht Frankfurt      5:2  1. FC Union Berlin
+  1. FC Köln               2:2  Borussia Dortmund
+  Werder Bremen            1:2  VfL Wolfsburg
+  FC Schalke 04            0:3  Bor. Mönchengladbach
 [So 21.3.]
   Hertha BSC               -  Bayer 04 Leverkusen
-  TSG 1899 Hoffenheim      -  1. FSV Mainz 05
+  TSG 1899 Hoffenheim      1:2  1. FSV Mainz 05
   SC Freiburg              -  FC Augsburg
 
 Spieltag 27
