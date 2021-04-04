@@ -370,13 +370,13 @@ Spieltag 26
 
 Spieltag 27
 [Sa 3.4.]
-  Borussia Dortmund        -  Eintracht Frankfurt
-  Bayer 04 Leverkusen      -  FC Schalke 04
-  VfL Wolfsburg            -  1. FC Köln
-  1. FSV Mainz 05          -  Arminia Bielefeld
+  Borussia Dortmund        1:2  Eintracht Frankfurt
+  Bayer 04 Leverkusen      2:1  FC Schalke 04
+  VfL Wolfsburg            1:0  1. FC Köln
+  1. FSV Mainz 05          1:1  Arminia Bielefeld
   FC Augsburg              -  TSG 1899 Hoffenheim
-  RB Leipzig               -  Bayern München
-  Bor. Mönchengladbach     -  SC Freiburg
+  RB Leipzig               0:1  Bayern München
+  Bor. Mönchengladbach     2:1  SC Freiburg
 [So 4.4.]
   1. FC Union Berlin       -  Hertha BSC
   VfB Stuttgart            -  Werder Bremen
