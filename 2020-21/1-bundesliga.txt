@@ -374,7 +374,7 @@ Spieltag 27
   Bayer 04 Leverkusen      2:1  FC Schalke 04
   VfL Wolfsburg            1:0  1. FC Köln
   1. FSV Mainz 05          1:1  Arminia Bielefeld
-  FC Augsburg              -  TSG 1899 Hoffenheim
+  FC Augsburg              2:1  TSG 1899 Hoffenheim
   RB Leipzig               0:1  Bayern München
   Bor. Mönchengladbach     2:1  SC Freiburg
 [So 4.4.]
@@ -397,30 +397,31 @@ Spieltag 28
   TSG 1899 Hoffenheim      -  Bayer 04 Leverkusen
 
 Spieltag 29
-[Sa 17.4.]
-  VfL Wolfsburg            -  Bayern München
+[Fr 16.4.]
   RB Leipzig               -  TSG 1899 Hoffenheim
+[Sa 17.4.]
   Bor. Mönchengladbach     -  Eintracht Frankfurt
-  1. FSV Mainz 05          -  Hertha BSC
+  VfL Wolfsburg            -  Bayern München
   SC Freiburg              -  FC Schalke 04
-  Bayer 04 Leverkusen      -  1. FC Köln
-  Borussia Dortmund        -  Werder Bremen
-  FC Augsburg              -  Arminia Bielefeld
   1. FC Union Berlin       -  VfB Stuttgart
-
+  FC Augsburg              -  Arminia Bielefeld
+  Bayer 04 Leverkusen      -  1. FC Köln
+[So 18.4.]
+  Borussia Dortmund        -  Werder Bremen
+  1. FSV Mainz 05          -  Hertha BSC
 
 Spieltag 30
 [Di 20.4.]
   1. FC Köln               -  RB Leipzig
-  TSG 1899 Hoffenheim      -  Bor. Mönchengladbach
   Bayern München           -  Bayer 04 Leverkusen
-  VfB Stuttgart            -  VfL Wolfsburg
+  Eintracht Frankfurt      -  FC Augsburg
+  Arminia Bielefeld        -  FC Schalke 04
+[Mi 21.4.]
   Hertha BSC               -  SC Freiburg
   Borussia Dortmund        -  1. FC Union Berlin
-  Arminia Bielefeld        -  FC Schalke 04
+  TSG 1899 Hoffenheim      -  Bor. Mönchengladbach
   Werder Bremen            -  1. FSV Mainz 05
-  Eintracht Frankfurt      -  FC Augsburg
-
+  VfB Stuttgart            -  VfL Wolfsburg
 
 Spieltag 31
 [Sa 24.4.]
