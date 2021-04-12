@@ -391,10 +391,10 @@ Spieltag 28
   Werder Bremen            1:4  RB Leipzig
   VfB Stuttgart            2:3  Borussia Dortmund
 [So 11.4.]
-  FC Schalke 04            -  FC Augsburg
-  1. FC Köln               -  1. FSV Mainz 05
+  FC Schalke 04            1:0  FC Augsburg
+  1. FC Köln               2:3  1. FSV Mainz 05
 [Mo 12.4.]
-  TSG 1899 Hoffenheim      -  Bayer 04 Leverkusen
+  TSG 1899 Hoffenheim      0:0  Bayer 04 Leverkusen
 
 Spieltag 29
 [Fr 16.4.]
