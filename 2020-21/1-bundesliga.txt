@@ -398,16 +398,16 @@ Spieltag 28
 
 Spieltag 29
 [Fr 16.4.]
-  RB Leipzig               -  TSG 1899 Hoffenheim
+  RB Leipzig               0:0  TSG 1899 Hoffenheim
 [Sa 17.4.]
-  Bor. Mönchengladbach     -  Eintracht Frankfurt
-  VfL Wolfsburg            -  Bayern München
-  SC Freiburg              -  FC Schalke 04
-  1. FC Union Berlin       -  VfB Stuttgart
-  FC Augsburg              -  Arminia Bielefeld
-  Bayer 04 Leverkusen      -  1. FC Köln
+  Bor. Mönchengladbach     4:0  Eintracht Frankfurt
+  VfL Wolfsburg            2:3  Bayern München
+  SC Freiburg              4:0  FC Schalke 04
+  1. FC Union Berlin       2:1  VfB Stuttgart
+  FC Augsburg              0:0  Arminia Bielefeld
+  Bayer 04 Leverkusen      3:0  1. FC Köln
 [So 18.4.]
-  Borussia Dortmund        -  Werder Bremen
+  Borussia Dortmund        4:1  Werder Bremen
   1. FSV Mainz 05          -  Hertha BSC
 
 Spieltag 30
@@ -424,52 +424,53 @@ Spieltag 30
   VfB Stuttgart            -  VfL Wolfsburg
 
 Spieltag 31
+[Fr 23.4.]
+  FC Augsburg              -  1. FC Köln
 [Sa 24.4.]
-  1. FSV Mainz 05          -  Bayern München
   VfL Wolfsburg            -  Borussia Dortmund
   SC Freiburg              -  TSG 1899 Hoffenheim
-  Bayer 04 Leverkusen      -  Eintracht Frankfurt
-  FC Schalke 04            -  Hertha BSC
-  FC Augsburg              -  1. FC Köln
   1. FC Union Berlin       -  Werder Bremen
-  Bor. Mönchengladbach     -  Arminia Bielefeld
+  FC Schalke 04            -  Hertha BSC
+  1. FSV Mainz 05          -  Bayern München
+  Bayer 04 Leverkusen      -  Eintracht Frankfurt
+[So 25.4.]
   RB Leipzig               -  VfB Stuttgart
-
+  Bor. Mönchengladbach     -  Arminia Bielefeld
 
 Spieltag 32
+[Fr 7.5.]
+  Hertha BSC               -  Arminia Bielefeld
 [Sa 8.5.]
   Borussia Dortmund        -  RB Leipzig
-  Bayern München           -  Bor. Mönchengladbach
-  Werder Bremen            -  Bayer 04 Leverkusen
-  1. FC Köln               -  SC Freiburg
-  VfL Wolfsburg            -  1. FC Union Berlin
   TSG 1899 Hoffenheim      -  FC Schalke 04
+  VfL Wolfsburg            -  1. FC Union Berlin
+  Werder Bremen            -  Bayer 04 Leverkusen
+  Bayern München           -  Bor. Mönchengladbach
+[So 9.5.]
+  1. FC Köln               -  SC Freiburg
   Eintracht Frankfurt      -  1. FSV Mainz 05
   VfB Stuttgart            -  FC Augsburg
-  Hertha BSC               -  Arminia Bielefeld
-
 
 Spieltag 33
 [Sa 15.5.]
-  15.30  SC Freiburg              -  Bayern München
-         1. FSV Mainz 05          -  Borussia Dortmund
-         Arminia Bielefeld        -  TSG 1899 Hoffenheim
-         RB Leipzig               -  VfL Wolfsburg
-         FC Schalke 04            -  Eintracht Frankfurt
-         Bayer 04 Leverkusen      -  1. FC Union Berlin
-         Hertha BSC               -  1. FC Köln
-         FC Augsburg              -  Werder Bremen
-         Bor. Mönchengladbach     -  VfB Stuttgart
-
+  SC Freiburg              -  Bayern München
+  1. FSV Mainz 05          -  Borussia Dortmund
+  Arminia Bielefeld        -  TSG 1899 Hoffenheim
+  RB Leipzig               -  VfL Wolfsburg
+  FC Schalke 04            -  Eintracht Frankfurt
+  Bayer 04 Leverkusen      -  1. FC Union Berlin
+  Hertha BSC               -  1. FC Köln
+  FC Augsburg              -  Werder Bremen
+  Bor. Mönchengladbach     -  VfB Stuttgart
 
 Spieltag 34
 [Sa 22.5.]
-  15.30  1. FC Union Berlin       -  RB Leipzig
-         Werder Bremen            -  Bor. Mönchengladbach
-         Borussia Dortmund        -  Bayer 04 Leverkusen
-         Eintracht Frankfurt      -  SC Freiburg
-         TSG 1899 Hoffenheim      -  Hertha BSC
-         1. FC Köln               -  FC Schalke 04
-         VfL Wolfsburg            -  1. FSV Mainz 05
-         Bayern München           -  FC Augsburg
-         VfB Stuttgart            -  Arminia Bielefeld
+  1. FC Union Berlin       -  RB Leipzig
+  Werder Bremen            -  Bor. Mönchengladbach
+  Borussia Dortmund        -  Bayer 04 Leverkusen
+  Eintracht Frankfurt      -  SC Freiburg
+  TSG 1899 Hoffenheim      -  Hertha BSC
+  1. FC Köln               -  FC Schalke 04
+  VfL Wolfsburg            -  1. FSV Mainz 05
+  Bayern München           -  FC Augsburg
+  VfB Stuttgart            -  Arminia Bielefeld
