@@ -408,7 +408,7 @@ Spieltag 29
   Bayer 04 Leverkusen      3:0  1. FC Köln
 [So 18.4.]
   Borussia Dortmund        4:1  Werder Bremen
-  1. FSV Mainz 05          -  Hertha BSC
+  1. FSV Mainz 05          1:1  Hertha BSC
 
 Spieltag 30
 [Di 20.4.]
@@ -417,7 +417,7 @@ Spieltag 30
   Eintracht Frankfurt      2:0  FC Augsburg
   Arminia Bielefeld        1:0  FC Schalke 04
 [Mi 21.4.]
-  Hertha BSC               -  SC Freiburg
+  Hertha BSC               3:0  SC Freiburg
   Borussia Dortmund        2:0  1. FC Union Berlin
   TSG 1899 Hoffenheim      3:2  Bor. Mönchengladbach
   Werder Bremen            0:1  1. FSV Mainz 05
