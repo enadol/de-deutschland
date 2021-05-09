@@ -439,7 +439,7 @@ Spieltag 31
 
 Spieltag 32
 [Fr 7.5.]
-  Hertha BSC               -  Arminia Bielefeld
+  VfB Stuttgart            2:1  FC Augsburg
 [Sa 8.5.]
   Borussia Dortmund        3:2  RB Leipzig
   TSG 1899 Hoffenheim      4:2  FC Schalke 04
@@ -449,7 +449,7 @@ Spieltag 32
 [So 9.5.]
   1. FC Köln               -  SC Freiburg
   Eintracht Frankfurt      -  1. FSV Mainz 05
-  VfB Stuttgart            -  FC Augsburg
+  Hertha BSC               -  Arminia Bielefeld
 
 Spieltag 33
 [Sa 15.5.]
